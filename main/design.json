@@ -1,6 +1,1713 @@
 {
+  "01. Colors/Mode 1": {
+    "primary": {
+      "primary-blue": {
+        "value": "#3778fe",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "primary-green": {
+        "value": "#00b7ba",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      }
+    },
+    "color": {
+      "color-blue-01": {
+        "value": "#3778fe",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-03": {
+        "value": "#d7e6ff",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-04": {
+        "value": "#e0ecff",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-05": {
+        "value": "#edf4fe",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-06": {
+        "value": "#f2f6fa",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-07": {
+        "value": "#e4e8ed",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-green-01": {
+        "value": "#00cbc4",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-green-02": {
+        "value": "#c7f0ee",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-green-03": {
+        "value": "#e8fcfc",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-yellow-01": {
+        "value": "#fec637",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-yellow-02": {
+        "value": "#fcf0cc",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-red-01": {
+        "value": "#fe4a4a",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-white": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-gray-04": {
+        "value": "#eef1f5",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-gray-01": {
+        "value": "#0c0d0f",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-yellow-03": {
+        "value": "#fffaeb",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-gray-02": {
+        "value": "#c2c7cc",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-blue-02": {
+        "value": "#cbd8f2",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      },
+      "color-gray-03": {
+        "value": "#e6eaf0",
+        "type": "color",
+        "parent": "01. Colors/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "02. Background Color/Mode 1": {
+    "color-background": {
+      "value": "#f6f7f9",
+      "type": "color",
+      "parent": "02. Background Color/Mode 1",
+      "description": ""
+    },
+    "color-input box disabled": {
+      "value": "#f9fafc",
+      "type": "color",
+      "parent": "02. Background Color/Mode 1",
+      "description": ""
+    }
+  },
+  "03. Text Color/Mode 1": {
+    "color-text-default": {
+      "value": "#0c0d0f",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-gray-01": {
+      "value": "#3d444d",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-gray-02": {
+      "value": "#565d66",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-gray-03": {
+      "value": "#7b808f",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-gray-04": {
+      "value": "#999ead",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-disabled": {
+      "value": "#d8dfe5",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-brand-blue": {
+      "value": "#3778fe",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-brand-green": {
+      "value": "#00b7ba",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    },
+    "color-text-error": {
+      "value": "#fe4a4a",
+      "type": "color",
+      "parent": "03. Text Color/Mode 1",
+      "description": ""
+    }
+  },
+  "05. Line Color/Mode 1": {
+    "color-line-input": {
+      "value": "#ebf0f5",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-border-button-green": {
+      "value": "#e8fcfc",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-border-button-blue": {
+      "value": "#edf4fe",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-input-active": {
+      "value": "#0c0d0f",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-input-disabled": {
+      "value": "#ebf0f5",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-button": {
+      "value": "#e6eaf0",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-border-button-dark": {
+      "value": "#0c0d0f",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-button-disabled": {
+      "value": "#c2c7cc",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-input-error": {
+      "value": "#fe4a4a",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    },
+    "color-line-contents": {
+      "value": "#e6eff7",
+      "type": "color",
+      "parent": "05. Line Color/Mode 1",
+      "description": ""
+    }
+  },
+  "07. Line Height/Mode 1": {
+    "line-medium": {
+      "value": "0.0625rem",
+      "type": "dimension",
+      "parent": "07. Line Height/Mode 1",
+      "description": ""
+    },
+    "line-large": {
+      "value": "0.09375rem",
+      "type": "dimension",
+      "parent": "07. Line Height/Mode 1",
+      "description": ""
+    },
+    "line-small": {
+      "value": "0.046875rem",
+      "type": "dimension",
+      "parent": "07. Line Height/Mode 1",
+      "description": ""
+    }
+  },
+  "08. Radius/Mode 1": {
+    "6": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "parent": "08. Radius/Mode 1",
+      "description": ""
+    },
+    "8": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "parent": "08. Radius/Mode 1",
+      "description": ""
+    },
+    "10": {
+      "value": "0.625rem",
+      "type": "dimension",
+      "parent": "08. Radius/Mode 1",
+      "description": ""
+    },
+    "12": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "parent": "08. Radius/Mode 1",
+      "description": ""
+    },
+    "100%": {
+      "value": "6.25rem",
+      "type": "dimension",
+      "parent": "08. Radius/Mode 1",
+      "description": ""
+    }
+  },
+  "06. Spacing/Mode 1": {
+    "Browser": {
+      "24": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "06. Spacing/Mode 1",
+        "description": ""
+      }
+    },
+    "Contents": {
+      "30": {
+        "value": "1.875rem",
+        "type": "dimension",
+        "parent": "06. Spacing/Mode 1",
+        "description": ""
+      },
+      "40": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "06. Spacing/Mode 1",
+        "description": ""
+      },
+      "50": {
+        "value": "3.125rem",
+        "type": "dimension",
+        "parent": "06. Spacing/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "#1.  Primitive/Mode 1": {
+    "blue": {
+      "50": {
+        "value": "#e4f3ff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#bee1ff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#93cfff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#63bcff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#40acff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#299cff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#338dff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#3778fe",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#3967eb",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#3b44cb",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    },
+    "red": {
+      "50": {
+        "value": "#ffebee",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffccd2",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#f99898",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#f36f70",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fe4a4a",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff342c",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#f5282c",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#e31927",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#d60b1f",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#c70011",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    },
+    "gray": {
+      "50": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#e9e9e9",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#c4c4c4",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#9d9d9d",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#7b7b7b",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#555555",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#434343",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#262626",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "dark": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    },
+    "green": {
+      "50": {
+        "value": "#dff5f7",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#aadfe2",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#6dcccf",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#00b7ba",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#00a7a9",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#009797",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#008a89",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#007a77",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#006a67",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#004e48",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    },
+    "yellow": {
+      "50": {
+        "value": "#fffee8",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fffac6",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fef69f",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#fdf179",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fbed5a",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#f8e73c",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ffde40",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#fec637",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#fcae2f",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#f88520",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    },
+    "blue gray": {
+      "50": {
+        "value": "#f6f7f9",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ebf0f5",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "150": {
+        "value": "#d8dfe5",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#b3b7c0",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#959aa8",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#7e8596",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#687084",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#5a6274",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#49505d",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#262931",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#242527",
+        "type": "color",
+        "parent": "#1.  Primitive/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "#2. Semantic/Mode 1": {
+    "Primary Colors": {
+      "MYZIPSA blue": {
+        "value": "{blue.700}",
+        "type": "color",
+        "parent": "#2. Semantic/Mode 1",
+        "description": ""
+      },
+      "MYZIPSA green": {
+        "value": "{green.300}",
+        "type": "color",
+        "parent": "#2. Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "Button": {
+      "type C": {
+        "normal": {
+          "text": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type A": {
+        "normal": {
+          "text": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type B": {
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "normal": {
+          "text": {
+            "value": "{blue gray.700}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type D": {
+        "normal": {
+          "line": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type E": {
+        "normal": {
+          "text": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type F": {
+        "normal": {
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Text Fields": {
+      "type A": {
+        "normal": {
+          "text": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{blue gray.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "activated": {
+          "line": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "error": {
+          "line": {
+            "value": "{red.400}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "error text": {
+            "value": "{red.400}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{red.400}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type B": {
+        "activated": {
+          "line": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-left": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-right": {
+            "value": "{blue gray.300}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "normal": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-left": {
+            "value": "{blue gray.300}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-right": {
+            "value": "{blue gray.300}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{blue gray.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "error": {
+          "line": {
+            "value": "{red.400}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-left": {
+            "value": "{red.400}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "count-right": {
+            "value": "{blue gray.300}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Drop Down": {
+      "type A": {
+        "normal": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "content": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "label": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "line": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{blue gray.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "label": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "content": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "Expanded": {
+          "line": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "boder": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "label": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "content": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "list": {
+            "value": "{blue gray.700}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Tabs": {
+      "type A": {
+        "line": {
+          "value": "{blue gray.100}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "line-focus": {
+          "value": "{Primary Colors.MYZIPSA blue}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "text": {
+          "value": "{blue gray.300}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "text-focus": {
+          "value": "{Primary Colors.MYZIPSA blue}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "boder": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      }
+    },
+    "Badge": {
+      "type A": {
+        "blue": {
+          "border": {
+            "value": "{blue.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "text": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "green": {
+          "text": {
+            "value": "{Primary Colors.MYZIPSA green}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{green.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue gray.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type B": {
+        "normal": {
+          "text": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "border": {
+            "value": "{blue gray.50}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "type C": {
+        "normal": {
+          "text": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{blue gray.800}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "activated": {
+          "text": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Chip": {
+      "type A": {
+        "border": {
+          "value": "{blue gray.50}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "text": {
+          "value": "{blue gray.800}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "icon": {
+          "value": "{blue gray.900}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      }
+    },
+    "Check box": {
+      "selected": {
+        "enabled": {
+          "border": {
+            "value": "{Primary Colors.MYZIPSA blue}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "border": {
+            "value": "{blue gray.200}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      },
+      "unselected": {
+        "enabled": {
+          "border": {
+            "value": "{blue gray.150}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        },
+        "disabled": {
+          "border": {
+            "value": "{blue gray.100}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          },
+          "icon": {
+            "value": "{gray.white}",
+            "type": "color",
+            "parent": "#2. Semantic/Mode 1",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Radio button": {
+      "normal": {
+        "line": {
+          "value": "{blue gray.150}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "active": {
+        "line": {
+          "value": "{Primary Colors.MYZIPSA blue}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "disabled": {
+        "border": {
+          "value": "{blue gray.150}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      }
+    },
+    "Toggle switches": {
+      "normal": {
+        "target": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{blue gray.150}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "active": {
+        "target": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{Primary Colors.MYZIPSA blue}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "disabled": {
+        "target": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{blue gray.200}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      }
+    },
+    "Speech Bubble": {
+      "left": {
+        "text": {
+          "value": "{blue gray.800}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "right": {
+        "text": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "border": {
+          "value": "{Primary Colors.MYZIPSA blue}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        },
+        "icon": {
+          "value": "{gray.white}",
+          "type": "color",
+          "parent": "#2. Semantic/Mode 1",
+          "description": ""
+        }
+      }
+    }
+  },
+  "#4. Border Height/Mode 1": {
+    "M": {
+      "value": "0.0625rem",
+      "type": "dimension",
+      "parent": "#4. Border Height/Mode 1",
+      "description": ""
+    },
+    "L": {
+      "value": "0.09375rem",
+      "type": "dimension",
+      "parent": "#4. Border Height/Mode 1",
+      "description": ""
+    },
+    "S": {
+      "value": "0.046875rem",
+      "type": "dimension",
+      "parent": "#4. Border Height/Mode 1",
+      "description": ""
+    }
+  },
+  "#5. Radius/Mode 1": {
+    "M": {
+      "value": "0.625rem",
+      "type": "dimension",
+      "parent": "#5. Radius/Mode 1",
+      "description": ""
+    },
+    "S": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "parent": "#5. Radius/Mode 1",
+      "description": ""
+    },
+    "XS": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "parent": "#5. Radius/Mode 1",
+      "description": ""
+    },
+    "100%": {
+      "value": "6.25rem",
+      "type": "dimension",
+      "parent": "#5. Radius/Mode 1",
+      "description": ""
+    },
+    "L": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "parent": "#5. Radius/Mode 1",
+      "description": ""
+    }
+  },
+  "#3. Spacing/Mode 1": {
+    "Browser": {
+      "margin": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "#3. Spacing/Mode 1",
+        "description": ""
+      }
+    },
+    "Contents": {
+      "L": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "#3. Spacing/Mode 1",
+        "description": ""
+      },
+      "XL": {
+        "value": "3.125rem",
+        "type": "dimension",
+        "parent": "#3. Spacing/Mode 1",
+        "description": ""
+      },
+      "M": {
+        "value": "1.875rem",
+        "type": "dimension",
+        "parent": "#3. Spacing/Mode 1",
+        "description": ""
+      },
+      "S": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "#3. Spacing/Mode 1",
+        "description": ""
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": []
+    "tokenSetOrder": [
+      "01. Colors/Mode 1",
+      "02. Background Color/Mode 1",
+      "03. Text Color/Mode 1",
+      "05. Line Color/Mode 1",
+      "07. Line Height/Mode 1",
+      "08. Radius/Mode 1",
+      "06. Spacing/Mode 1",
+      "#1.  Primitive/Mode 1",
+      "#2. Semantic/Mode 1",
+      "#4. Border Height/Mode 1",
+      "#5. Radius/Mode 1",
+      "#3. Spacing/Mode 1"
+    ]
   }
 }
